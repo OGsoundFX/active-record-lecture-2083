@@ -4,7 +4,8 @@ This is a starting point for the Active Record Basics & Advanced lectures. Durin
 
 - Clone the project
 - Run `bundle install`
-- Explain `rake -T`
-- Explain `config/database.yml`
-- Run `rake db:create` / `rake db:drop`
-- Create and run 2 migrations
+- Run `rake db:create`
+- Run `rake db:migrate`
+- Run `rake db:seed`
+
+🚀
